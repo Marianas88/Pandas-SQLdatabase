@@ -10,3 +10,4 @@ This Pandas and SQL Databases movie project was to show the following:
 
 ![image](https://github.com/user-attachments/assets/95f3e0e9-5e67-40ad-a5ae-3261d2442a51)
 
+![image](https://github.com/user-attachments/assets/e581b6b7-a73b-48da-b4ab-adf5faa51dc6)
